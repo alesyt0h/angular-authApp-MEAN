@@ -1,4 +1,4 @@
-[preview] (https://raw.githubusercontent.com/alesyt0h/angular-authApp-MEAN/main/Preview%20-%20AuthApp.jpg?token=ACYZ35ECLURT4MRF47DVUR3BIDWDO)
+![preview] (https://raw.githubusercontent.com/alesyt0h/angular-authApp-MEAN/main/Preview%20-%20AuthApp.jpg?token=ACYZ35ECLURT4MRF47DVUR3BIDWDO)
 
 # AuthApp
 
