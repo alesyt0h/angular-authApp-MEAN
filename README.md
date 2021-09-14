@@ -1,3 +1,5 @@
+[preview] https://raw.githubusercontent.com/alesyt0h/angular-authApp-MEAN/main/Preview%20-%20AuthApp.jpg?token=ACYZ35ECLURT4MRF47DVUR3BIDWDO
+
 # AuthApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.1.
