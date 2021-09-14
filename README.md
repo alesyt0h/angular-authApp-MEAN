@@ -1,5 +1,4 @@
 ![preview](https://github.com/alesyt0h/angular-authApp-MEAN/blob/main/Preview%20-%20AuthApp.jpg?raw=true)
-![preview](https://github.com/alesyt0h/angular-authApp-MEAN/raw/main/Preview%20-%20AuthApp.jpg)
 
 # AuthApp
 
